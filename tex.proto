@@ -1,0 +1,22 @@
+rc	- sys sys
+	bin	- sys sys
+		dvips	- sys sys
+		latex	- sys sys
+		mf	- sys sys
+		mp	- sys sys
+		slitex	- sys sys
+		tex	- sys sys
+sys	- sys sys
+	lib	- sys sys
+		texmf	- sys sys
+			+	- sys sys
+sys	- sys sys
+	man	- sys sys
+		1	- sys sys
+			mp	- sys sys
+			tex	- sys sys
+sys	- sys sys
+	src	- sys sys
+		cmd	- sys sys
+			tex	- sys sys
+				+	- sys sys
