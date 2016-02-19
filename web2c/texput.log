@@ -1,0 +1,31 @@
+This is TeX, Version 3.14159 (Web2C 7.2) (format=latex.little 1999.10.23)  16 DEC 2007 22:09
+**&latex.little
+
+*q
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> q
+     
+? quit
+OK, entering \batchmode...
+Missing character: There is no q in font nullfont!
+! Emergency stop.
+<*> q
+     
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 1 string out of 10932
+ 10 string characters out of 73194
+ 43053 words of memory out of 700001
+ 2997 multiletter control sequences out of 10000+0
+ 3640 words of font info for 14 fonts, out of 200000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 4i,0n,4p,8b,14s stack positions out of 300i,100n,500p,30000b,4000s
+No pages of output.
